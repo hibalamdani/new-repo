@@ -1,0 +1,9 @@
+1-wat doet glone?
+2-wat doet status?
+3-wat doet git branch?
+4- wat doet git add?
+5-wat doet git commit?
+6-wat doet git push?
+7- wat doet git checkout?
+8-wat doet gir log?
+
